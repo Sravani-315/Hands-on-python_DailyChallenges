@@ -12,5 +12,4 @@ Each challenge strengthens my logical thinking, problem-solving ability, and cor
 | Day 4 | Smart List Filter & Rebuilder   | Separates numbers and strings from mixed input, applies name authentication, and personalizes list modification using register number logic. |
 | Day 5 | Smart Transport Load Balancing  | Analyzes package weights, categorizes them, and applies personalized load adjustment using PLI logic.                                        |
 | Day 6 | Smart Playlist Intelligence System | A Python program that analyzes song durations, validates inputs, categorizes the playlist, and provides suitable recommendations. Username-based access control with a doraemon theme and music-lover validation before playlist analysis |
-
 | Day 7 | Smart Campus Energy Analyzer | A Python program that analyzes campus energy readings, computes average consumption, validates input, categorizes buildings into efficiency levels, and generates an intelligent report using lists, dictionaries, and conditional logic. |
